@@ -1,0 +1,13 @@
+/* 
+  Tabela de pinos Analógico/Digitas  e seus valores  : 
+Pino: GPIO16 , Constante : D0 , Valor : 16 
+Pino: GPIO5 , Constante : D1 , Valor : 5
+Pino: GPIO4 , Constante : D2  , Valor : 4
+Pino: GPIO0 , Constante : D3 , Valor : 0
+Pino: GPIO2 , Constante : D4 , Valor : 2
+Pino: GPIO14 , Constante : D5  , Valor : 14
+Pino: GPIO12 , Constante :D6  , Valor : 12
+Pino: GPIO13 , Constante :D7  , Valor : 13
+Pino: GPIO15 , Constante :D8  , Valor : 15
+Pino: Analógico, Constante: A0, Valor: 17
+*/
